@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <link rel="stylesheet" href="../static/css/style3.css">
+    <meta charset="UTF-8">
+    <title>Login page</title>
+</head>
+<body>
+<div class="main">
+
+  <div class="navbar">
+    <div class="icon">
+      <h2 class="logo">Car Studio </h2>
+    </div>
+  </div>
+
+  <a href="/logout" class="logout">Logout</a>
+
+  <!-- <div class="navbar">
+    <div class="icon">
+      <h2 class="logo">Wheeler</h2>
+    </div>
+    <br>
+    <br>
+    <a href="/logout" class="btn btn-primary btn-sm"><b><u>Logout</u></b></a>
+  </div> -->
+
+    <div class="container">
+      <center><h1>Login Here</h1></center><br><br>
+      <form action="/login" method="post" autocomplete="off">
+        <div class="mb-3">
+          <label for="username" class="form-label">Username</label>
+          <input type="text" class="form-control" id="username" name="username" required>
+        </div>
+        <br>
+        <div class="mb-3">
+          <label for="password" class="form-label">Password</label>
+          <input type="password" class="form-control" id="password" name="password" required>
+        </div>
+        <br>
+        <br>
+        <center><button type="submit" class="submit_btn">Login</button></center>
+        <br>
+      </form>
+      <br>
+      
+      <center>Don't have an account</center>
+      <center><a href="/register" class="reg_btn">Register Now</a></center>
+      <br>
+      <center><h5 class="info">{{info}}</h5></center>
+    </div>
+</div>
+</body>
+</html>
