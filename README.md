@@ -7,11 +7,10 @@ In order to predict the resale value of the car, we proposed an intelligent, fle
 
 OUR SOLUTION WORKS AS FOLLOWS:
 
+After the user clicks predict they are asked to login, if they dont have an account they can register, then they must enter the datails of the car, and then the price prediction is generated as given below.
 
-![image](https://user-images.githubusercontent.com/73707950/203706625-e2c28b51-4b3b-4048-a9ec-db7f2fb9606e.png)
+![image](https://user-images.githubusercontent.com/73707950/203709776-9384a5c5-cd8e-469d-9215-ee44343fd085.png)
 
-
-After the user clicks predict they are asked to login, if they dont have an account they can register:
 
 
 
