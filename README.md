@@ -13,8 +13,7 @@ OUR SOLUTION WORKS AS FOLLOWS:
 
 After the user clicks predict they are asked to login, if they dont have an account they can register:
 
-![image](https://user-images.githubusercontent.com/73707950/203706863-141df73e-b75f-457e-84c2-b6e555977cec.png)
 
-After logging in, they must enter details of the car.
+
 
 
