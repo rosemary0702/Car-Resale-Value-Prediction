@@ -1,4 +1,11 @@
 # IBM-Project-11116-1659264566
+|               |NAME                     | ROLL NUMBER     |   
+|--------------:|------------------------:|:---------------:|
+|TEAM LEAD      |SANJANA SURESH           |  312319104142   |   
+|TEAM MEMBER 1  |ROSE MARY CHITTILAPPILLY |  312319104131   |   
+|TEAM MEMBER 2  |SHARANYA N               |  312319104155   |
+|TEAM MEMBER 3  |VIJAY ADHIRA C           |  312319104185   |
+
 Car Resale value Prediction
 
 The sales of second hand (reconditioned) cars and used cars has increased. In many developed countries, it is common to lease a car rather than buying it outright. After the lease period is over, the buyer has the possibility to buy the car at its residual value, i.e. its expected resale value. Thus, it is of commercial interest to sellers/financers to be able to predict the salvage value (residual value) of cars with accuracy.
