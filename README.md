@@ -1,4 +1,4 @@
-# IBM-Project-11116-1659264566
+# IBM-Project-11116-1659264566 - Car Resale Value Prediction
 OUR TEAM:
 |               |NAME                     | ROLL NUMBER     |   
 |--------------:|------------------------:|:---------------:|
