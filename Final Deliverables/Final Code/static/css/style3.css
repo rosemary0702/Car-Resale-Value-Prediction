@@ -1,0 +1,130 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+}
+.main{
+    
+    background-image: linear-gradient(rgba(0,0,0,0.1),rgba(0,0,0,0.1)),url(../Images/bg2.png);    
+    background-position: center;
+    background-size: cover;
+    height:100vh;
+    
+}
+.navbar {
+    width: auto;
+    height: 75px;
+    margin: auto;
+    margin-left: 5%;
+
+}
+
+.icon {
+    margin-top: 30px;
+    width: auto;
+    float: left;
+    height: 60px;
+    border: 5px solid #A97129;
+    border-radius: 5px;
+    background: #3E4975;
+    /* border-color:#3E4975 */
+}
+
+.logo {
+    color: #E8AE54;
+    font-size: 40px;
+    font-family: Arial;
+    padding-left: 20px;
+    padding-right: 20px;
+    float: left;
+    padding: 10px;
+}
+
+.logout{
+    color: white;
+    float: right;
+    text-decoration: none;
+    font-style: normal;
+    margin-right: 50px;
+    /* margin-top: 30px; */
+    font-size: 20px;
+}
+
+.logout:hover {
+    font-size: 25px;
+}
+
+.container{
+    width:320px;
+    height: 420px;;
+    color: #fff;
+    top:42%;
+    left:25%;
+    background: rgba(24, 35, 81, 0.9);
+    position: relative;
+    transform: translate(-50%,-50%);
+    box-sizing:border-box;
+    padding: 50px 30px;
+}
+
+.main button[type="submit"]{
+    background: #A97129;
+    border: none;
+    width: 150px;
+    height: auto;
+    color: #fff;
+    font-weight: bold;
+    font-size: 20px;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+.main button[type="submit"]:hover {
+    background: #E8AE54;
+}
+.reg_btn{
+    color: #A97129;
+}
+.reg_btn:hover {
+    color: #E8AE54;
+}
+
+.info{
+    color: #E8AE54;
+}
+/* a{
+    color:#03fcfc;
+    float:right;
+    text-decoration:none;
+    font-style:normal;
+    
+    font-size:16px;
+}
+ 
+ a:hover{
+    background-color:#063970;
+    color:white;
+    border-radius:10px;
+    font-size:16px;
+    padding-left:5px;
+    
+ } */
+
+
+ /* a {
+    color: rgb(11, 3, 21);
+    float: right;
+    text-decoration: none;
+    font-style: normal;
+    padding-right: 30px;
+    font-size: 20px;
+}
+
+a:hover {
+    background-color: black;
+    color: white;
+    border-radius: 15px;
+    font-size: 30px;
+    padding-left: 10px;
+
+} */
