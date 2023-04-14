@@ -1,11 +1,4 @@
-# IBM-Project-11116-1659264566 - Car Resale Value Prediction
-OUR TEAM:
-|               |NAME                     | ROLL NUMBER     |   
-|--------------:|------------------------:|:---------------:|
-|TEAM LEAD      |SANJANA SURESH           |  312319104142   |   
-|TEAM MEMBER 1  |ROSE MARY CHITTILAPPILLY |  312319104131   |   
-|TEAM MEMBER 2  |SHARANYA N               |  312319104155   |
-|TEAM MEMBER 3  |VIJAY ADHIRA C           |  312319104185   |
+# Car Resale Value Prediction
 
 CAR RESALE VALUE PREDICTION
 
